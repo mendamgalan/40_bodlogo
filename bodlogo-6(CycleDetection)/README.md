@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/images/40 bodlogo 6.png" alt="Project Logo" style="width:800px; border-radius:12px; margin-bottom:16px;">
+</p>
+
 Холбоостой жагсаалт (linked list) нь хэрвээ аль нэг node (төв) рүү дахин очиж байвал циклтэй гэж үзнэ. Танд жагсаалтын эхлэл head node өгөгдсөн бол энэ жагсаалтад цикл байгаа эсэхийг шалгаарай. Хэрвээ цикл байвал 1-ийг, байгаагүй бол 0-ийг буцаана.
 head нь дараах node-ууд руу зааж байна:  
 1 → 2 → 3 → null  
