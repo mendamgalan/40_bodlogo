@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/images/40 bodlogo 3.png" alt="Project Logo" style="width:800px; border-radius:12px; margin-bottom:16px;">
+</p>
+
 Тоон утга n-ийн факториал гэж юу вэ:
 
 n — бүхэл тоо бол түүний факториал (n!) нь дараах байдлаар тодорхойлогдоно:
