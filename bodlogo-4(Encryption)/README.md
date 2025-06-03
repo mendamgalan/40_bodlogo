@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/images/40 bodlogo 4.png" alt="Project Logo" style="width:800px; border-radius:12px; margin-bottom:16px;">
+</p>
+
 Нэг англи текстийг дараах шифрлэлийн аргаар шифрлэх ёстой:
 
 Эхлээд текстээс бүх хоосон зайг (space) авч хаяна. Үүний үр дүнд үсэгнүүдийн тоо L болно.
