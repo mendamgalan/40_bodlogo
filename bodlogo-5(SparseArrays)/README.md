@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/images/40 bodlogo 5.png" alt="Project Logo" style="width:800px; border-radius:12px; margin-bottom:16px;">
+</p>
 Асуудлын тайлбар
 Танд хоёр жагсаалт өгөгдсөн:
 
