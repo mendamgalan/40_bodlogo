@@ -42,5 +42,4 @@ i-ийн утгыг ихэсгэсээр илэрхийлэх өөр аргуу�
 
 Гаралт:
 1
-
-![Alt text](\images\40 bodlogo 36.png)
+![40 bodlogo 36](https://github.com/user-attachments/assets/38631593-3a91-47fd-b60f-2f40d588ad0a)
