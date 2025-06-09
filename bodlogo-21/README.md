@@ -36,4 +36,4 @@ ifailuhkqq
 Гаралт:
 3
 
-![Alt text](\images\40 bodlogo 21.png)
+![40 bodlogo 21](https://github.com/user-attachments/assets/b0c7015d-3ca7-4a5f-a06d-853496472253)
