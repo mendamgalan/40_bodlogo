@@ -37,4 +37,4 @@ BFS ашиглан (a, b) тус бүрийн хамгийн богино зам
 2 4 -1 4
 8 4 4 4
 
-![Alt text](\images\40 bodlogo 24.png)
+![40 bodlogo 24](https://github.com/user-attachments/assets/1d9f52a1-fe1b-40f1-820d-71119913e29e)
