@@ -52,4 +52,4 @@ x = 10 → 1010
 → Үлдэх нь: 1 боломж
 
 (Жич: Дээрх тайлбарыг кодоор шалгавал илүү тодорхой болно.)
-![Alt text](\images\40 bodlogo 33.png)
+![40 bodlogo 33](https://github.com/user-attachments/assets/d8c3d849-dbaf-43ed-a9eb-614e7d9b4f3b)
