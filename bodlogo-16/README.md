@@ -83,4 +83,4 @@ NO
 Аль нь ч биш бол → NO
 
 
-![Alt text](\images\40 bodlogo 16.png)
+![40 bodlogo 16](https://github.com/user-attachments/assets/0d635e11-a993-4349-af67-c164503f040a)
