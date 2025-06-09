@@ -60,4 +60,4 @@
 1 2 3
 -1
 
-![Alt text](\images\40 bodlogo 12.png)
+![40 bodlogo 12](https://github.com/user-attachments/assets/7b18bf37-e026-4f42-a072-831e6370de7a)
