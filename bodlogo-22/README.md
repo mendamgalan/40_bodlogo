@@ -30,4 +30,4 @@ GAAATAAA
 Гаралт:
 5
 
-![Alt text](\images\40 bodlogo 22.png)
+![40 bodlogo 22](https://github.com/user-attachments/assets/ca9ef333-9f68-4cde-86bb-eb92b0ed36fd)
