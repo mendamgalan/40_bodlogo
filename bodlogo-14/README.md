@@ -70,4 +70,4 @@ GGGGGG
 Энд хамгийн их талбайтай хоёр пласын талбай 5 ба 1 байна (5×1 = 5)
 
 
-![Alt text](\images\40 bodlogo 14.png)
+![40 bodlogo 14](https://github.com/user-attachments/assets/cdc2e089-0761-4237-83f6-d21ae3187a8c)
