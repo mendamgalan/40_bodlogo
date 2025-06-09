@@ -72,4 +72,4 @@ G-ийн дотор P матрицийн эхний мөрийн эхний тэ
 YES
 P нь G-ийн 1-р болон 2-р мөрөнд яг дараалсан байдлаар байгааг харж болно.
 
-![Alt text](\images\40 bodlogo 10.png)
+![40 bodlogo 10](https://github.com/user-attachments/assets/97d9d420-7b0c-48ed-b080-3ad87715ba56)
