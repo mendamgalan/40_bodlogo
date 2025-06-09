@@ -52,4 +52,4 @@ n тоог k удаа үржүүлэн нэг томоохон тоо үүсгэ
 Дахин нийлбэр: 1+2 = 3 → эцсийн хариу
 
 
-![Alt text](\images\40 bodlogo 37.png)
+![40 bodlogo 37](https://github.com/user-attachments/assets/cecbbe85-9edf-4b7f-906f-e3b13c95d9a0)
