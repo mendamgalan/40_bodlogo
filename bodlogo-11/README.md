@@ -57,4 +57,4 @@ Input:
 Output:
 60
 
-![Alt text](\images\40 bodlogo 11.png)
+![40 bodlogo 11](https://github.com/user-attachments/assets/358a8a94-90a9-433a-b6d3-e3050efbb9ef)
