@@ -45,4 +45,4 @@ YES
 Энэ нөхцөл биелсэн бол "YES", үгүй бол "NO" гэж буцаана.
 
 
-![Alt text](\images\40 bodlogo 19.png)
+![40 bodlogo 19](https://github.com/user-attachments/assets/23e7a84d-28e1-4b44-ab0e-35bec8e599ff)
