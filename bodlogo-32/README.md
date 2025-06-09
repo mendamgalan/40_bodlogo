@@ -47,4 +47,4 @@ Richard: 2 / 2 = 1
 Ээлжийг тоолж байгаад тэгш бол Richard, сондгой бол Louise ялна.
 
 
-![Alt text](\images\40 bodlogo 32.png)
+![40 bodlogo 32](https://github.com/user-attachments/assets/bd58d7c1-f39a-4038-980d-ef92c6f5df6d)
