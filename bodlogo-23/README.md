@@ -36,4 +36,4 @@ Hackerland улсын нэг тэлсэн тосгонд байрласан гэ
 
 Гаралт:
 2
-![Alt text](\images\40 bodlogo 23.png)
+![40 bodlogo 23](https://github.com/user-attachments/assets/a4c8d597-8ee0-4ae3-8f73-83fce34a1d01)
