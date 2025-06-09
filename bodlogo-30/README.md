@@ -62,4 +62,4 @@ Alice
 3 → үлдэнэ
 
 1 алхам → сондгой → Alice ялна
-![Alt text](\images\40 bodlogo 30.png)
+![40 bodlogo 30](https://github.com/user-attachments/assets/e2672b7d-d238-4252-b6ff-d662732e912e)
