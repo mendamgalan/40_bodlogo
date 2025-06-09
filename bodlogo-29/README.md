@@ -53,4 +53,4 @@
 Иймд хамгийн их боломжит нийлбэр = 119 + 112 + 83 + 100 = 414
 
 
-![Alt text](\images\40 bodlogo 29.png)
+![40 bodlogo 29](https://github.com/user-attachments/assets/90e1b1ac-4ec0-484c-9278-b9fc047c127a)
