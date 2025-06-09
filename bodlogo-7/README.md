@@ -51,4 +51,4 @@ imtgdvs fearoeo wnrlgwu aanodvh nntgdeo mtohhu atsogou sodeur
 Гаралт:
 Шифрлэгдсэн текст (encrypted string)
 
-![Alt text](\images\40 bodlogo 7.png)
+![40 bodlogo 7](https://github.com/user-attachments/assets/f5948460-1ad9-4273-b323-eb12f04d24e7)
