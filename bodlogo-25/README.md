@@ -32,4 +32,4 @@ abba
 Гаралт:
 1
 
-![Alt text](\images\40 bodlogo 25.png)
+![40 bodlogo 25](https://github.com/user-attachments/assets/ef2aeda2-e01b-4583-a2aa-8b9cf7e44abf)
