@@ -41,4 +41,4 @@ t₂ = 1
 t₃ = 0 + 1² = 1  
 t₄ = 1 + 1² = 2  
 t₅ = 1 + 2² = 5
-![Alt text](\images\40 bodlogo 31.png)
+![40 bodlogo 31](https://github.com/user-attachments/assets/10c7ab4c-b1ee-4a62-9b96-8ba3a0ae1b9a)
