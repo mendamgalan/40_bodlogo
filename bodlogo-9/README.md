@@ -56,4 +56,4 @@ h цаг m минут гэсэн хугацааг англи үгээр илэр
 30 минут → half
 
 1 минут → minute (нэг тоон дээр minute гэж ганцаар бичнэ, бусад тоонд minutes)
-![Alt text](\images\40 bodlogo 9.png)
+![40 bodlogo 9](https://github.com/user-attachments/assets/06f9177c-d36e-46af-bdb4-8ef1e4abfa05)
