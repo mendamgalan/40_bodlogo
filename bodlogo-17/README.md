@@ -48,4 +48,4 @@ x утгаараа бүхэл өгөгдлийг тооллын эрэмбэлэ
 
 Гаралтанд эрэмбэлэгдсэн дарааллаар s-г хэвлэнэ.
 
-![Alt text](\images\40 bodlogo 17.png)
+![40 bodlogo 17](https://github.com/user-attachments/assets/6621c8e1-47aa-41e6-be11-a6e6f80e6a90)
