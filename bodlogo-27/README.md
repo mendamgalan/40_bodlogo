@@ -48,4 +48,4 @@ k=3 гэвэл дараах байдлаар авч болно:
 Хамгийн бага зөрүү = 20
 
 
-![Alt text](\images\40 bodlogo 27.png)
+![40 bodlogo 27](https://github.com/user-attachments/assets/df379d4b-4ff1-4e78-9118-7c0c575cd47f)
