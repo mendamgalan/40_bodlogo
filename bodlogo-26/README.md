@@ -42,4 +42,4 @@ k найз хамтдаа n цэцэгийг хамгийн бага нийт з
 Нийт = 6 + 5 + 2 = 13
 
 
-![Alt text](\images\40 bodlogo 26.png)
+![40 bodlogo 26](https://github.com/user-attachments/assets/c07b0b59-c96a-44cf-b4f7-c6f4157fe4ed)
