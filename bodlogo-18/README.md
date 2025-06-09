@@ -28,4 +28,4 @@ arr-ыг хамгийн бага солилт хийж эрэмбэлэх тоо
 
 Гаралт:
 2
-![Alt text](\images\40 bodlogo 18.png)
+![40 bodlogo 18](https://github.com/user-attachments/assets/4d08fa02-c6ee-45d3-b606-b31735253c4c)
