@@ -38,4 +38,5 @@
 Хэрвээ мөрийн нийлбэр ба баганын нийлбэрийн багцууд тэнцүү байвал Possible.
 
 Үгүй бол Impossible.
-![Alt text](\images\40 bodlogo 6.png)
+![40 bodlogo 6](https://github.com/user-attachments/assets/e911bf42-cf9b-4551-adc8-39d15bad9bd7)
+
