@@ -39,4 +39,4 @@
 Түүнийг задалж, дараагийн том үсэгтэй солих байрлалыг олоод:
 
 Хойш байгаа бүх үсгийг жижигээс том дарааллаар эрэмжилнэ.
-![Alt text](\images\40 bodlogo 8.png)
+![40 bodlogo 8](https://github.com/user-attachments/assets/3d8fa2df-ca1a-40ca-996d-c9a90d675df0)
