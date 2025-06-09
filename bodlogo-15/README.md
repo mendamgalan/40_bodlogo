@@ -66,4 +66,4 @@ YES
 1 3 4 2 → хэд хэдэн эргэлт хийж 1 2 3 4 болгож болно.
 
 1 2 3 — аль хэдийн өссөн дараалалтай.
-![Alt text](\images\40 bodlogo 15.png)
+![40 bodlogo 15](https://github.com/user-attachments/assets/e6de5a8f-e4b4-4890-be64-cd6291d68c60)
