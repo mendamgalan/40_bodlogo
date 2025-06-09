@@ -41,4 +41,4 @@ n = 5, k = 3
 
 Хаалтуудын байрлалыг харгалзан хаах зайг тодорхойлно.
 
-![Alt text](\images\40 bodlogo 5.png)
+![40 bodlogo 5](https://github.com/user-attachments/assets/16fee515-aee2-45e5-895d-377004c0b3b9)
